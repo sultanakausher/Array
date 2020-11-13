@@ -2,12 +2,12 @@
  * Data-Structures-In-Java
  * Pair.java
  */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
 /**
  * Pair class 
  * 
- * @author Deepak
+ * @author sultana
  *
  * @param <L>
  * @param <R>
