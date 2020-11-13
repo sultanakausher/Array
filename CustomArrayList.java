@@ -2,7 +2,7 @@
  * Data-Structures-In-Java
  * CustomArrayList.java
  */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
 import java.util.Arrays;
 
@@ -10,7 +10,7 @@ import java.util.Arrays;
  * Custom implementation of ArrayList
  * This is generic, so can support any type.
  * 
- * @author Deepak
+ * @author sultana
  *
  * @param <T>
  */
