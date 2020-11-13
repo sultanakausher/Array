@@ -1,8 +1,4 @@
-/**
- * Data-Structures-In-Java
- * BasicOperations.java
- */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
@@ -30,13 +26,12 @@ import java.util.stream.Stream;
  * 15. Converting arrays between primitives and boxed types
  * 16. Reversing an array
  * 
- * @author Deepak Malik
+ * @author sultana kausher
  */
 public class BasicOperations {
 
 	/**
 	 * Method to perform all operations mentioned above
-	 * @param args
 	 */
 	public static void main(String[] args) {
 
