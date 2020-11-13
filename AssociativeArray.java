@@ -12,7 +12,6 @@ package com.sultana.data.structures.Arrays;
  * can be achieved through HashMap or HashTable. 
  * Below is the replica of HashMap just names as associative arrays.
  * 
- * @author Deepak
  */
 public class AssociativeArray<K, V> {
 
@@ -35,7 +34,6 @@ public class AssociativeArray<K, V> {
 	/**
 	 * Constructor
 	 * 
-	 * @param size
 	 */
 	@SuppressWarnings("unchecked")
 	public AssociativeArray(int size) {
