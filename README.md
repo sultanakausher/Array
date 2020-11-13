@@ -1,7 +1,7 @@
-#Data Structure IN JAVA
+Data Structure IN JAVA
 
 
-----> #Arrays <----
+----> Arrays <----
 
 
 Array is a basic and important data structure
