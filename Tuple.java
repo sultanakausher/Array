@@ -2,14 +2,14 @@
  * Data-Structures-In-Java
  * Tuple.java
  */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
 /**
  * Tuple class is an extension of Pair
  * NOTE : Tuple can have any number of elements.
  * We are implementing this class as a Triplet for now
  * 
- * @author Deepak
+ * @author sultana
  *
  * @param <L>
  * @param <M>
