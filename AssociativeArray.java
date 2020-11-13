@@ -2,7 +2,7 @@
  * Data-Structures-In-Java
  * AssociativeArray.java
  */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
 /**
  * Associative Arrays in Java :
