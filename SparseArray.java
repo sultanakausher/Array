@@ -2,9 +2,9 @@
  * Data-Structures-In-Java
  * SparseArray.java
  */
-package com.deepak.data.structures.Arrays;
+package com.sultana.data.structures.Arrays;
 
-import com.deepak.data.structures.Utils.ArrayUtils;
+import com.sultana.data.structures.Utils.ArrayUtils;
 
 /**
  * Sparse Arrays in Java :
@@ -30,7 +30,7 @@ import com.deepak.data.structures.Utils.ArrayUtils;
  * need to be performed at any time the array needs to be grown or the the map size or
  * entry values are retrieved.</p>
  *   
- * @author Deepak
+ * @author sultana
  */
 public class SparseArray<T> {
 
